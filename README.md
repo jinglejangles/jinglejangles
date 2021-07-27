@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jinglejangles
 - 👀 I’m interested in reinvesting in myself through open source/programming projects.
-- 🌱 I’m currently learning java,spring boot, python. 
+- 🌱 I’m currently learning graphql. 
 - 💞️ I’m looking to collaborate on some open source projects but not sure where to begin.
 - 📫 How to reach me: email 
 
